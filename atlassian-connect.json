@@ -1,0 +1,26 @@
+{
+     "name": "Webdesk  World",
+     "description": "Webdesk - Atlassian Connect add-on",
+     "key": "com.webdesk.firstapp",
+     "baseUrl": "http://webdesk.com.pk/atlassian/first-app",
+     "vendor": {
+         "name": "Webdesk Pakistan",
+         "url": "http://webdesk.com.pk"
+     },
+     "authentication": {
+         "type": "none"
+     },
+     "apiVersion": 1,
+     "modules": {
+         "generalPages": [
+             {
+                 "url": "/helloworld.html",
+                 "key": "hello-world",
+                 "location": "system.top.navigation.bar",
+                 "name": {
+                     "value": "Greeting"
+                 }
+             }
+         ]
+     }
+ }
