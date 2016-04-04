@@ -2,7 +2,7 @@
      "name": "Webdesk  World",
      "description": "Webdesk - Atlassian Connect add-on",
      "key": "com.webdesk.firstapp",
-     "baseUrl": "http://webdesk.com.pk/atlassian/first-app",
+     "baseUrl": "https://abdullah-shiwani.github.io/attlasina-first-addon",
      "vendor": {
          "name": "Webdesk Pakistan",
          "url": "http://webdesk.com.pk"
